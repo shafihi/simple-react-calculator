@@ -51,7 +51,7 @@ Before you begin, ensure you have the following installed on your machine:
 2. **Navigate to Project:** Change your working directory to the project directory:
 
    ```bash
-   cd react-calculator
+   cd simple-react-calculator
 
    ```
 
